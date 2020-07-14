@@ -1,3 +1,4 @@
+/Render
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -8,6 +9,9 @@
 *.toc
 *.fmt
 *.fot
+*.avi
+*.mp4
+*.mkv
 *.cb
 *.cb2
 .*.lb
